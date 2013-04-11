@@ -5,6 +5,9 @@ int main()
 {
     cout << "hello" << endl;
     
+
+    double d;
+    
     int a = 123;
     cout << a << endl;
     
